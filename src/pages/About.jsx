@@ -110,7 +110,7 @@ const About = forwardRef((props, ref) => {
                 <Slide direction="right" triggerOnce delay={200}>
                     <AboutText>
                         <p>
-                            Halo! Saya <span>[Nama Anda]</span>, seorang desainer grafis dengan passion mendalam dalam menciptakan visual yang tidak hanya indah, tetapi juga strategis dan efektif. Dengan pengalaman bertahun-tahun di industri kreatif, saya berdedikasi untuk membantu brand dan individu mewujudkan visi mereka melalui desain yang inovatif.
+                            Halo! Saya <span>R Muhamad Irsyad Taufik</span>, seorang desainer grafis dengan passion mendalam dalam menciptakan visual yang tidak hanya indah, tetapi juga strategis dan efektif. Dengan pengalaman bertahun-tahun di industri kreatif, saya berdedikasi untuk membantu brand dan individu mewujudkan visi mereka melalui desain yang inovatif.
                         </p>
                         <p>
                             Saya percaya bahwa setiap desain memiliki cerita. Pendekatan saya berpusat pada pemahaman mendalam tentang kebutuhan klien dan audiens mereka, memastikan setiap elemen visual berfungsi untuk mencapai tujuan bisnis. Saya mengkhususkan diri dalam <span>desain logo, branding, UI/UX, ilustrasi, dan grafis media sosial</span>.
