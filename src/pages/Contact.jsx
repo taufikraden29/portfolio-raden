@@ -98,7 +98,7 @@ const Contact = forwardRef((props, ref) => {
     const handleSubmit = (e) => {
         e.preventDefault();
 
-        const whatsappNumber = '6281234567890'; // Ganti dengan nomor WhatsApp Anda
+        const whatsappNumber = '6285179999132'; // Ganti dengan nomor WhatsApp Anda
         const message = `Halo, saya ${formData.name} (${formData.email}).\n\nSaya tertarik dengan layanan: ${formData.service}.\n\nPesan saya:\n${formData.message}\n\nTerima kasih.`;
         const encodedMessage = encodeURIComponent(message);
         const whatsappURL = `https://wa.me/${whatsappNumber}?text=${encodedMessage}`;
